@@ -116,5 +116,5 @@ dmypy.json
 # macOS
 .DS_Store
 
-#App specific
+#App specific files
 tasks.json
